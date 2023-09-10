@@ -45,12 +45,4 @@ Include screenshots or gameplay images here if you have any.
 
 - [Pygame](https://www.pygame.org/): Pygame is a popular library for creating 2D games in Python.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Include any acknowledgments or credits for assets, libraries, or tutorials used in your game.
-
-# brick_breaker
