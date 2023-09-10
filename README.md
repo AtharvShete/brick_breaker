@@ -21,11 +21,14 @@ Include screenshots or gameplay images here if you have any.
 1. Clone this repository to your local machine.
 2. Install Python and the Pygame library if not already installed.
 3. Open a terminal or command prompt and navigate to the game's directory.
-4. Run the game by executing the following command: ~python brick_breaker.py~
-5. Use the left and right arrow keys to move the paddle and bounce the ball.
-6. Try to break all the bricks to win the level.
-7. You have a limited number of lives. If the ball falls below the paddle, you lose a life.
-8. If you run out of lives, it's game over.
+4. Run the game by executing the following command:
+5. ```
+   python brick_breaker.py
+   ```
+6. Use the left and right arrow keys to move the paddle and bounce the ball.
+7. Try to break all the bricks to win the level.
+8. You have a limited number of lives. If the ball falls below the paddle, you lose a life.
+9. If you run out of lives, it's game over.
 
 ## Controls
 
